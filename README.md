@@ -15,6 +15,8 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat)
+![PERN Stack](https://img.shields.io/badge/-PERN%20Stack-4B8BBE?logo=postgresql&logoColor=white&style=flat)
+
 
 ---
 
