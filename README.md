@@ -25,6 +25,7 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 ![Zishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
 
 ---
+## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan&layout=compact&theme=tokyonight)
 
