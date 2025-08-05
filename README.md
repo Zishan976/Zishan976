@@ -22,14 +22,19 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 
 ## 📊 GitHub Stats
 
-![Zishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+![Zishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zishan976&show_icons=true&theme=radical)
 
 ---
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zishan976&layout=compact&theme=tokyonight)
 
 ---
+## 🔥 Contribution Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zishan976&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 ## 📬 Let's Connect
 
