@@ -26,6 +26,10 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan&layout=compact&theme=tokyonight)
+
+---
+
 ## 📬 Let's Connect
 
 💬 Always open to collaborations, challenges, or just tech chatter.  
