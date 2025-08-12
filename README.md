@@ -30,9 +30,6 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zishan976&layout=compact&theme=tokyonight)
 
 ---
-## 🔥 Contribution Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zishan976&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 📬 Let's Connect
