@@ -32,8 +32,7 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 ---
 ## 🔥 Contribution Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zishan976&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zishan976&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 📬 Let's Connect
