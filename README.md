@@ -38,7 +38,7 @@ I'm a full-stack developer passionate about building scalable, efficient, and cl
 Feel free to reach out, share feedback, or geek out over clean code and modern tools!
 <h1>⚡ Where to find me</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/khalilurrahmanzishan/)" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
