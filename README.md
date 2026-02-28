@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalilur Rahman Zishan
 
-**Full‑Stack Developer | Scalable Web Solutions | Educator & Creative Strategist**
+**Full‑Stack Developer |PERN-stack DEVEloper | Freelancer | Founder @ SoftCodeLab Solution**
 
 I specialize in building cleanly architected, scalable applications with a strong focus on **security, performance, and user experience**.  
 With expertise across frontend and backend technologies, I transform ideas into web experiences that are fast, functional, and user‑friendly.
@@ -48,13 +48,12 @@ With expertise across frontend and backend technologies, I transform ideas into 
 ---
 
 ## 📊 GitHub Stats
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zishan976&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zishan976&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalilurrahmanzishan/)  
-- 🌐 Portfolio: [yourwebsite.com]  
-- 📧 Email: yourname@email.com  
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🌐 Portfolio: (https://khalilur-rahman.onrender.com/)  
+- 📧 Email: sharkarzishan@email.com  
